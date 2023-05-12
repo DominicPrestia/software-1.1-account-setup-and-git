@@ -52,7 +52,7 @@ Windows: C:\Users\<your username>\suw3
 ### Forking vs Cloning
 Step 1: Visit [this dummy repository url]() on the browser.
 
-Step 2: Fork it. This is my change. THIS IS ANOTHER CHANGE Making a change directly in GITHUB
+Step 2: Fork it. This is my change.
 
 Step 3: Launch VS Code and open the folder where you would clone all repositories (this folder is created for the lesson).
 
